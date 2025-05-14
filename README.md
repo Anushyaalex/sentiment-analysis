@@ -1,5 +1,4 @@
-
-# Social Media Trend Analysis
+**Social Media Trend Analysis***
 
 A brief description of what this project does and who it's for
 
